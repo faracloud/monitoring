@@ -1,0 +1,13 @@
+SERVICE TYPE,SERVICE NAME,CPU,INSTALLATION,OPERATION,OS,DC,SUPPORT,DELIVERY,VIRTUALIZATION,PANEL,BW,DISK,TRAFFIC,RAM,DISKTYPE
+VPS,SSX-1GB,2 Core 1GHz,free,35000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,20 GB SSD,4TB,1 GB,SSD
+VPS,MSX-12GB,4 Core 4GHz,free,185000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,150 GB SSD,10TB,12 GB,SSD
+VPS,DSX-4GB,4 Core 2.5GHz,free,149000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,1 TB HDD,100TB,4 GB,HDD
+VPS,SSX-2GB,2 Core 2GHz,free,46000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,25 GB SSD,4TB,2 GB,SSD
+VPS,MSX-14GB,4 Core 5GHz,free,248000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,170 GB SSD,10TB,14 GB,SSD
+VPS,DSX-8GB,4 Core 3.5GHz,free,229000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,2 TB HDD,100TB,8 GB,HDD
+VPS,SSX-4GB,4 Core 2.5GHz,free,92000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,50 GB SSD,8TB,4 GB,SSD
+VPS,MSX-16GB,8 Core 6GHz,free,320000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,200 GB SSD,10TB,16 GB,SSD
+VPS,DSX-12GB,4 Core 4GHz,free,309000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,3 TB HDD,100TB,12 GB,HDD
+VPS,SSX-8GB,4 Core 3.5GHz,free,139000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,100 GB SSD,8TB,8 GB,SSD
+VPS,MSX-18GB,8 Core 7GHz,free,399000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,220 GB SSD,10TB,18 GB,SSD
+VPS,DSX-14GB,4 Core 5GHz,free,369000,Linux\Windows,¬·„«‰,”ÿÕ 1,30min upto 4h,VMware ESX,«‰ Œ«»,1 Gbit/s-Port,4 TB HDD,100TB,14 GB,HDD

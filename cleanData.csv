@@ -1,0 +1,39 @@
+,Unnamed: 0,BW,CPU,DC,DISK,DISKTYPE,INSTALLATION,OPERATION,OS,PROVIDERLINK,RAM,SERVICENAME,SERVICETYPE,TRAFFIC,VIRTUALIZATION
+0,0,1 Gbit/s-Port,2 Core 1GHz,آلمان,20 GB SSD,SSD,free,35000,Linux\Windows,http://mizbanaval.com/vps-1-gig-ram/,1 GB,SSX-1GB,VPS,4TB,VMware ESX
+1,1,1 Gbit/s-Port,4 Core 4GHz,آلمان,150 GB SSD,SSD,free,185000,Linux\Windows,http://mizbanaval.com/vps-12-gig-ram/,12 GB,MSX-12GB,VPS,10TB,VMware ESX
+2,2,1 Gbit/s-Port,4 Core 2.5GHz,آلمان,1 TB HDD,HDD,free,149000,Linux\Windows,http://mizbanaval.com/virtual-server-4-gig-ram-hdd/,4 GB,DSX-4GB,VPS,100TB,VMware ESX
+3,3,1 Gbit/s-Port,2 Core 2GHz,آلمان,25 GB SSD,SSD,free,46000,Linux\Windows,http://mizbanaval.com/vps-2-gig-ram/,2 GB,SSX-2GB,VPS,4TB,VMware ESX
+4,4,1 Gbit/s-Port,4 Core 5GHz,آلمان,170 GB SSD,SSD,free,248000,Linux\Windows,http://mizbanaval.com/vps-14-gig-ram/,14 GB,MSX-14GB,VPS,10TB,VMware ESX
+5,5,1 Gbit/s-Port,4 Core 3.5GHz,آلمان,2 TB HDD,HDD,free,229000,Linux\Windows,http://mizbanaval.com/virtual-server-8-gig-ram-hdd/,8 GB,DSX-8GB,VPS,100TB,VMware ESX
+6,6,1 Gbit/s-Port,4 Core 2.5GHz,آلمان,50 GB SSD,SSD,free,92000,Linux\Windows,http://mizbanaval.com/vps-4-gig-ram/,4 GB,SSX-4GB,VPS,8TB,VMware ESX
+7,7,1 Gbit/s-Port,8 Core 6GHz,آلمان,200 GB SSD,SSD,free,320000,Linux\Windows,http://mizbanaval.com/vps-16-gig-ram/,16 GB,MSX-16GB,VPS,10TB,VMware ESX
+8,8,1 Gbit/s-Port,4 Core 4GHz,آلمان,3 TB HDD,HDD,free,309000,Linux\Windows,http://mizbanaval.com/virtual-server-12-gig-ram-hdd/,12 GB,DSX-12GB,VPS,100TB,VMware ESX
+9,9,1 Gbit/s-Port,4 Core 3.5GHz,آلمان,100 GB SSD,SSD,free,139000,Linux\Windows,http://mizbanaval.com/vps-8-gig-ram/,8 GB,SSX-8GB,VPS,8TB,VMware ESX
+10,10,1 Gbit/s-Port,8 Core 7GHz,آلمان,220 GB SSD,SSD,free,399000,Linux\Windows,http://mizbanaval.com/vps-18-gig-ram/,18 GB,MSX-18GB,VPS,10TB,VMware ESX
+11,11,1 Gbit/s-Port,4 Core 5GHz,آلمان,4 TB HDD,HDD,free,369000,Linux\Windows,http://mizbanaval.com/virtual-server-14-gig-ram-hdd/,14 GB,DSX-14GB,VPS,100TB,VMware ESX
+,Unnamed: 0,BW,CPU,DC,DISK,DISKTYPE,INSTALLATION,OPERATION,OS,PROVIDERLINK,RAM,SERVICENAME,SERVICETYPE,TRAFFIC,VIRTUALIZATION
+0,0,1 Gbit/s-Port,2 Core 1GHz,آلمان,20 GB SSD,SSD,free,35000,Linux\Windows,http://mizbanaval.com/vps-1-gig-ram/,1 GB,SSX-1GB,VPS,4TB,VMware ESX
+1,1,1 Gbit/s-Port,4 Core 4GHz,آلمان,150 GB SSD,SSD,free,185000,Linux\Windows,http://mizbanaval.com/vps-12-gig-ram/,12 GB,MSX-12GB,VPS,10TB,VMware ESX
+2,2,1 Gbit/s-Port,4 Core 2.5GHz,آلمان,1 TB HDD,HDD,free,149000,Linux\Windows,http://mizbanaval.com/virtual-server-4-gig-ram-hdd/,4 GB,DSX-4GB,VPS,100TB,VMware ESX
+3,3,1 Gbit/s-Port,2 Core 2GHz,آلمان,25 GB SSD,SSD,free,46000,Linux\Windows,http://mizbanaval.com/vps-2-gig-ram/,2 GB,SSX-2GB,VPS,4TB,VMware ESX
+4,4,1 Gbit/s-Port,4 Core 5GHz,آلمان,170 GB SSD,SSD,free,248000,Linux\Windows,http://mizbanaval.com/vps-14-gig-ram/,14 GB,MSX-14GB,VPS,10TB,VMware ESX
+5,5,1 Gbit/s-Port,4 Core 3.5GHz,آلمان,2 TB HDD,HDD,free,229000,Linux\Windows,http://mizbanaval.com/virtual-server-8-gig-ram-hdd/,8 GB,DSX-8GB,VPS,100TB,VMware ESX
+6,6,1 Gbit/s-Port,4 Core 2.5GHz,آلمان,50 GB SSD,SSD,free,92000,Linux\Windows,http://mizbanaval.com/vps-4-gig-ram/,4 GB,SSX-4GB,VPS,8TB,VMware ESX
+7,7,1 Gbit/s-Port,8 Core 6GHz,آلمان,200 GB SSD,SSD,free,320000,Linux\Windows,http://mizbanaval.com/vps-16-gig-ram/,16 GB,MSX-16GB,VPS,10TB,VMware ESX
+8,8,1 Gbit/s-Port,4 Core 4GHz,آلمان,3 TB HDD,HDD,free,309000,Linux\Windows,http://mizbanaval.com/virtual-server-12-gig-ram-hdd/,12 GB,DSX-12GB,VPS,100TB,VMware ESX
+9,9,1 Gbit/s-Port,4 Core 3.5GHz,آلمان,100 GB SSD,SSD,free,139000,Linux\Windows,http://mizbanaval.com/vps-8-gig-ram/,8 GB,SSX-8GB,VPS,8TB,VMware ESX
+10,10,1 Gbit/s-Port,8 Core 7GHz,آلمان,220 GB SSD,SSD,free,399000,Linux\Windows,http://mizbanaval.com/vps-18-gig-ram/,18 GB,MSX-18GB,VPS,10TB,VMware ESX
+11,11,1 Gbit/s-Port,4 Core 5GHz,آلمان,4 TB HDD,HDD,free,369000,Linux\Windows,http://mizbanaval.com/virtual-server-14-gig-ram-hdd/,14 GB,DSX-14GB,VPS,100TB,VMware ESX
+,Unnamed: 0,BW,CPU,DC,DISK,DISKTYPE,INSTALLATION,OPERATION,OS,PROVIDERLINK,RAM,SERVICENAME,SERVICETYPE,TRAFFIC,VIRTUALIZATION
+0,0,1 Gbit/s-Port,2 Core 1GHz,آلمان,20 GB SSD,SSD,free,35000,Linux\Windows,http://mizbanaval.com/vps-1-gig-ram/,1 GB,SSX-1GB,VPS,4TB,VMware ESX
+1,1,1 Gbit/s-Port,4 Core 4GHz,آلمان,150 GB SSD,SSD,free,185000,Linux\Windows,http://mizbanaval.com/vps-12-gig-ram/,12 GB,MSX-12GB,VPS,10TB,VMware ESX
+2,2,1 Gbit/s-Port,4 Core 2.5GHz,آلمان,1 TB HDD,HDD,free,149000,Linux\Windows,http://mizbanaval.com/virtual-server-4-gig-ram-hdd/,4 GB,DSX-4GB,VPS,100TB,VMware ESX
+3,3,1 Gbit/s-Port,2 Core 2GHz,آلمان,25 GB SSD,SSD,free,46000,Linux\Windows,http://mizbanaval.com/vps-2-gig-ram/,2 GB,SSX-2GB,VPS,4TB,VMware ESX
+4,4,1 Gbit/s-Port,4 Core 5GHz,آلمان,170 GB SSD,SSD,free,248000,Linux\Windows,http://mizbanaval.com/vps-14-gig-ram/,14 GB,MSX-14GB,VPS,10TB,VMware ESX
+5,5,1 Gbit/s-Port,4 Core 3.5GHz,آلمان,2 TB HDD,HDD,free,229000,Linux\Windows,http://mizbanaval.com/virtual-server-8-gig-ram-hdd/,8 GB,DSX-8GB,VPS,100TB,VMware ESX
+6,6,1 Gbit/s-Port,4 Core 2.5GHz,آلمان,50 GB SSD,SSD,free,92000,Linux\Windows,http://mizbanaval.com/vps-4-gig-ram/,4 GB,SSX-4GB,VPS,8TB,VMware ESX
+7,7,1 Gbit/s-Port,8 Core 6GHz,آلمان,200 GB SSD,SSD,free,320000,Linux\Windows,http://mizbanaval.com/vps-16-gig-ram/,16 GB,MSX-16GB,VPS,10TB,VMware ESX
+8,8,1 Gbit/s-Port,4 Core 4GHz,آلمان,3 TB HDD,HDD,free,309000,Linux\Windows,http://mizbanaval.com/virtual-server-12-gig-ram-hdd/,12 GB,DSX-12GB,VPS,100TB,VMware ESX
+9,9,1 Gbit/s-Port,4 Core 3.5GHz,آلمان,100 GB SSD,SSD,free,139000,Linux\Windows,http://mizbanaval.com/vps-8-gig-ram/,8 GB,SSX-8GB,VPS,8TB,VMware ESX
+10,10,1 Gbit/s-Port,8 Core 7GHz,آلمان,220 GB SSD,SSD,free,399000,Linux\Windows,http://mizbanaval.com/vps-18-gig-ram/,18 GB,MSX-18GB,VPS,10TB,VMware ESX
+11,11,1 Gbit/s-Port,4 Core 5GHz,آلمان,4 TB HDD,HDD,free,369000,Linux\Windows,http://mizbanaval.com/virtual-server-14-gig-ram-hdd/,14 GB,DSX-14GB,VPS,100TB,VMware ESX
